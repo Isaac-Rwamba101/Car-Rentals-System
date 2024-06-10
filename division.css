@@ -1,0 +1,39 @@
+#first{
+    background-color: aquamarine;
+    margin: 50px;
+    padding: 50px;
+}
+.mydiv{
+    padding: 40px;
+    margin-top: 40px;
+    background-color: darkcyan;
+}
+.mymain{
+    display: flex;
+}
+#course1{
+    background-color: darkblue;
+    color: white;
+    padding: 20px;
+}
+#course2{
+    background-image: url("Images/download (1).jpeg");
+    color: white;
+    padding: 20px;
+}
+#course3{
+    background-color: chartreuse;
+    color: white;
+    padding: 20px;
+}
+img{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+#course1:hover,#course2:hover,#course3:hover{
+    background-color: cyan;
+}
+h1{
+    text-align: center;
+}

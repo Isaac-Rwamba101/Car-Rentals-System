@@ -1,0 +1,24 @@
+h1{
+    color: aqua;
+    background: coral;
+    text-align: center;
+    line-height:90px;
+
+
+}
+
+h1:hover{
+    background-color: black;
+}
+p{ font-size: 18px;
+    font-weight: bold;
+     font-style: oblique;
+    margin-left: 50px;
+}
+img{
+    width:250px;
+    height:200px;
+}
+img:hover{
+    opacity: 0.6;
+}
